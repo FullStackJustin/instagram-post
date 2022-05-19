@@ -1,0 +1,37 @@
+/* body {
+    background-color: ;
+} */
+#post {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-top:10%;
+    margin-left:30%;
+    margin-right:30%;
+    
+}
+#topBar {
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+#postPhoto {
+    height:500px;
+}
+#postIcons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+#postText {
+    background-color: white;
+    padding: 10px;
+}
+#html5Rigo {
+    display: flex;
+    flex-direction: column;
+}
+#htmlIcon {
+    display: flex;
+}
